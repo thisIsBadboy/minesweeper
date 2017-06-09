@@ -13,6 +13,7 @@
 
 <body oncontextmenu="return false;">
 
+<h1 style="text-align: center;color: chocolate;">Minesweeper Game</h1>
 <div style="text-align:center;">
 	<div style="display:inline-block;">
 		<script type="text/javascript">
